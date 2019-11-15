@@ -5,7 +5,7 @@ public class Hello {
 
 
         System.out.println("Hello Wiola");
-
+        System.out.println("Wiola jest super");
         System.out.println("Hasta la vista");
     }
 }
